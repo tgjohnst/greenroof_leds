@@ -1,6 +1,8 @@
 # greenroof_leds
 Home lighting project 
 
+![lighting layout](images/lighting_layout.jpg)
+
 Parts Table
 
 | Function         | Part                                                         | Cost   |
